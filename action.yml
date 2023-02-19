@@ -1,4 +1,5 @@
-name: 'proof-it'
+- name: proof-it
+  uses: pycontribs/proofit@0.2
 author: 'Sorin Sbarnea'
 description: 'Verify that a PR has right labels before merge.'
 branding:
